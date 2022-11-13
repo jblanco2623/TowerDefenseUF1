@@ -1,6 +1,6 @@
 # TowerDefense
 
-La versió actual esta al .rar (SourceTree no volia funcionar ¯\_(ツ)_/¯)
+La versió actual esta al .rar (SourceTree no volia funcionar ¯ \_(ツ)_/¯)
 
 Risketos Basics - Tots
 Risketos Opcionals - 
